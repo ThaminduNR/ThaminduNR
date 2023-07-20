@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **HTML CSS**
 
-- 👨‍💻 All of my projects are available at [https://thamindunr.github.io/MyProfile/](https://thamindunr.github.io/MyProfile/)
+- 👨‍💻 All of my projects are available at [https://thamindunr.github.io/MyProfile/](https://thamindunr.github.io/new-my-profile/)
 
 - 💬 Ask me about **java**
 
