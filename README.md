@@ -1,4 +1,4 @@
-<img align="center" width="500px" src="https://media.foundit.in/career-advice/wp-content/uploads/2020/04/resume-for-software-developer.jpg">
+<img align="center" src="https://media.foundit.in/career-advice/wp-content/uploads/2020/04/resume-for-software-developer.jpg">
 <h1 align="center">Hi 👋, I'm Thamindu Ranawaka</h1>
 <h3 align="center">A passionate Software developer from Sri lanka</h3>
 
