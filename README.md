@@ -1,4 +1,4 @@
-<img align="center" src="[https://media.foundit.in/career-advice/wp-content/uploads/2020/04/resume-for-software-developer.jpg](https://res.cloudinary.com/practicaldev/image/fetch/s--enVmT-G4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7j8s2h4erdejm82dyyn7.png)">
+<img align="center" src="https://res.cloudinary.com/practicaldev/image/fetch/s--WcWx6Fef--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/f3mn2sw6is59zrxhzj51.png">
 <h1 align="center">Hi 👋, I'm Thamindu Ranawaka</h1>
 <h3 align="center">A passionate Software developer from Sri lanka</h3>
 
