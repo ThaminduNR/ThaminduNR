@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1358/1*X7Q84nkQN1DiFXC-rQLt9g.gif" alt="banner"/>
+  <img src="https://media1.tenor.com/m/mGgWY8RkgYMAAAAC/hello-world.gif" alt="banner"/>
 </p>
 <h1 align="center">Hi 👋, I'm Thamindu Ranawaka</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
