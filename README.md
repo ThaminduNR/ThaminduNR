@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://camo.githubusercontent.com/c7349616e6995fa3b26b1a0218895bf12f1c99eef377122dd7a91b2e71dc144c/68747470733a2f2f6861636b65726e6f6f6e2e636f6d2f696d616765732f66327078333666792e676966" alt="banner"/>
+  <img src="[https://camo.githubusercontent.com/c7349616e6995fa3b26b1a0218895bf12f1c99eef377122dd7a91b2e71dc144c/68747470733a2f2f6861636b65726e6f6f6e2e636f6d2f696d616765732f66327078333666792e676966](https://miro.medium.com/v2/resize:fit:1358/1*X7Q84nkQN1DiFXC-rQLt9g.gif)" alt="banner"/>
 </p>
 <h1 align="center">Hi 👋, I'm Thamindu Ranawaka</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
