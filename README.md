@@ -2,7 +2,7 @@
   <img src="https://github.com/ThaminduNR/ThaminduNR/assets/70229801/f102a1e2-bb3d-4b92-9c43-702a6aa10795" alt="banner"/>
 </p>
 <h1 align="center">Hi 👋, I'm Thamindu Ranawaka</h1>
-<h3 align="center">Associate Softwear Engineer from Sri Lanka</h3>
+<h3 align="center">Softwear Engineer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thamindunr&label=Profile%20views&color=0e75b6&style=flat" alt="thamindunr" /> </p>
 <table>
